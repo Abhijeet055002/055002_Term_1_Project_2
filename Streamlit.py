@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load your dataset
-file_path = "https://github.com/Abhijeet055002/Project_2/blob/main/Imports_Exports_Dataset.csv"
+file_path = "Imports_Exports_Dataset.csv"
 df = pd.read_csv(file_path)
 
 # Sidebar: User selects country
